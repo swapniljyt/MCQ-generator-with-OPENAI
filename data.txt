@@ -1,0 +1,21 @@
+Arthur Samuel, a pioneer in the field of artificial intelligence and computer gaming, coined the term “Machine Learning”.
+ He defined machine learning as – a “Field of study that gives computers the capability to learn without being explicitly programmed”.
+  In a very layman’s manner, Machine Learning(ML) can be explained as automating and improving the learning process of computers based on their experiences without being actually programmed i.e. without any human assistance. 
+  The process starts with feeding good quality data and then training our machines(computers) by building machine learning models using the data and different algorithms. 
+The choice of algorithms depends on what type of data we have and what kind of task we are trying to automate.
+A typical machine learning tasks are to provide a recommendation.
+ Recommender systems are a common application of machine learning, and they use historical data to provide personalized recommendations to users. In the case of Netflix, the system uses a combination of collaborative filtering and content-based filtering to recommend movies and TV shows to users based on their viewing history, ratings, and other factors such as genre preferences.
+
+Reinforcement learning is another type of machine learning that can be used to improve recommendation-based systems.
+ In reinforcement learning, an agent learns to make decisions based on feedback from its environment, and this feedback can be used to improve the recommendations provided to users. For example, the system could track how often a user watches a recommended movie and use this feedback to adjust the recommendations in the future. 
+
+Personalized recommendations based on machine learning have become increasingly popular in many industries, including e-commerce, social edia, and online advertising, as they can provide a better user experience and increase engagement with the platform or service.
+Types of Machine Learning
+Supervised Machine Learning Unsupervised Machine Learning Reinforcement Machine Learning
+The Top Machine Learning Careers in 2023
+Machine learning has opened up a wide range of career opportunities. From data science to AI engineering, professionals with machine learning skills are in high demand. Let's explore some of these career paths:
+Data scientist
+A data scientist uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+ Machine learning is a key tool in a data scientist's arsenal, allowing them to make predictions and uncover patterns in data.
+Key skills:
+Statistical analysis,Programming (Python, R),Machine learning,Data visualization,Problem-solvingEssential tools:,Python,R,SQLHadoop,spark,Tableau

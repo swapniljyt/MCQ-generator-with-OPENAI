@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the definition of machine learning according to Arthur Samuel?,a: A field of study that gives computers the capability to learn with human assistance | b: A field of study that gives computers the capability to learn without being explicitly programmed | c: A field of study that gives computers the capability to learn only with structured data | d: A field of study that gives computers the capability to learn by trial and error,b
+Which type of machine learning task involves providing personalized recommendations?,a: Supervised Machine Learning | b: Unsupervised Machine Learning | c: Reinforcement Machine Learning | d: All of the above,c
+What type of machine learning can be used to improve recommendation-based systems based on feedback from the environment?,a: Supervised Machine Learning | b: Unsupervised Machine Learning | c: Reinforcement Machine Learning | d: None of the above,c
+Which career path involves using machine learning as a key tool to make predictions and uncover patterns in data?,a: Data scientist | b: AI engineer | c: Software developer | d: Database administrator,a
+What are some key skills required for a data scientist?,"a: Statistical analysis, Programming (Python, R), Machine learning | b: Data visualization, Problem-solving, SQL | c: Hadoop, spark, Tableau | d: All of the above",a
